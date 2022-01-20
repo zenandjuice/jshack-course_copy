@@ -8,3 +8,5 @@ Changes made to the GUI Instructor Course Copy function:
 2. Hides 'Availability' which should not be changed via a course copy.
 3. Disables 'Copy links to Course Files' and selects 'Copy links and copies of the content' as the default
 4. Warns users that 'Grade Center Columns and Settings' needs to be selected in order for gradable items to propogate to the destination course.
+
+A screenshot of the resulting Course Copy screen is included in the repository.
